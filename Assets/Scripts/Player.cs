@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-   // [SerializeField]
-   //private GameObject gameObject;
+    private Animator animator;
     // Start is called before the first frame update
     void Start()
     {
         Debug.Log("start");
-        //gameObject.GetComponent<GameObject>();
+        animator = GetComponent<Animator>();
+        
     }
 
     // Update is called once per frame
@@ -20,6 +20,7 @@ public class Player : MonoBehaviour
         if (Input.GetButtonDown("A"))
         {
             Debug.Log("Aボタンが押されました");
+            animator.SetBool("Attack", true);
         }
     }
 
