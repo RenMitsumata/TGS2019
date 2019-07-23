@@ -25,7 +25,7 @@ public class Player : MonoBehaviour
         {
             Debug.Log("Aボタンが押されました");
             animator.SetBool("Attack", true);
-            punch.PlayOneShot(punch.clip);
+           
         }
         if (Input.GetButtonDown("B"))
         {
@@ -37,6 +37,9 @@ public class Player : MonoBehaviour
         controller.Move(direction * Time.deltaTime);
 
     }// void Update()
-
+    void PUNCH()
+    {
+        punch.PlayOneShot(punch.clip);
+    }
 
 }
