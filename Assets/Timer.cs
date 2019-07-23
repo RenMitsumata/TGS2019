@@ -8,6 +8,7 @@ public class Timer : MonoBehaviour
 {
     public float startTime = 180.0f;
     private bool once = false;
+    private int set = 0;
     Text textTime;
     // Start is called before the first frame update
     void Start()
@@ -20,7 +21,7 @@ public class Timer : MonoBehaviour
     {
         startTime -= Time.deltaTime;
         textTime = GetComponent<Text>();
-        textTime.text = "Time:" + startTime.ToString("F2");
+        textTime.text = "Time:" + startTime.ToString("F2") + "  Destroy:" + set.ToString();
         if(startTime < 10.0f && !once)
         {
             textTime.color = new Color(1.0f, 0.0f, 0.0f);
@@ -30,5 +31,10 @@ public class Timer : MonoBehaviour
         {
             SceneManager.LoadScene("Title");
         }
+    }
+
+    public void Set(int destroy)
+    {
+        set = destroy;
     }
 }
