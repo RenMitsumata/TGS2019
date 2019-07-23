@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 16
-  productGUID: 00000000000000000000000000000000
+  productGUID: 864ded053df45cb49881afd74627dbf3
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -636,7 +636,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: e039ab2e-c49d-4398-96d2-021f3343ae59
   framebufferDepthMemorylessMode: 0
-  projectName: Platformer3DClient
+  projectName: TGS2019
   organizationId: leo1818red1115
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
