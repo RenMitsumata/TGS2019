@@ -1,5 +1,5 @@
 sceneSetups:
-- path: C:/Users/ren_m/Documents/senka-hal-tokyo/Client/Assets/RollingBall.unity
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
