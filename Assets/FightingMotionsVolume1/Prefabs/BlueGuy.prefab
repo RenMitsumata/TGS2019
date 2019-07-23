@@ -9,12 +9,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000012453370464}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Toe_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000012453370464
 Transform:
@@ -39,12 +39,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000013345973724}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Collar_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000013345973724
 Transform:
@@ -70,12 +70,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000011620319236}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Shoulder_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000011620319236
 Transform:
@@ -102,12 +102,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000013115280396}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Hip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000013115280396
 Transform:
@@ -135,12 +135,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000012128044020}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Thigh_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000012128044020
 Transform:
@@ -166,12 +166,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000013835837212}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: ForeArm_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000013835837212
 Transform:
@@ -197,12 +197,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000011579109160}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Neck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000011579109160
 Transform:
@@ -228,12 +228,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000013725295744}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000013725295744
 Transform:
@@ -258,12 +258,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000011367914878}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Thigh_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000011367914878
 Transform:
@@ -289,12 +289,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000012455078168}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Foot_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000012455078168
 Transform:
@@ -320,12 +320,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000010331459072}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Shin_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000010331459072
 Transform:
@@ -351,12 +351,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000011706057204}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Hand_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000011706057204
 Transform:
@@ -381,12 +381,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000010082109902}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Collar_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000010082109902
 Transform:
@@ -412,12 +412,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000011784316420}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Foot_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000011784316420
 Transform:
@@ -444,12 +444,12 @@ GameObject:
   m_Component:
   - component: {fileID: 4000010601248748}
   - component: {fileID: 137000013546405140}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: BlueGuy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000010601248748
 Transform:
@@ -544,12 +544,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000012238284452}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Shoulder_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000012238284452
 Transform:
@@ -576,12 +576,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000012812632916}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Hand_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000012812632916
 Transform:
@@ -606,12 +606,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000012670777790}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000012670777790
 Transform:
@@ -639,12 +639,12 @@ GameObject:
   - component: {fileID: 4000010719486322}
   - component: {fileID: 95000012732393394}
   - component: {fileID: 143000011742214054}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: BlueGuy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000010719486322
 Transform:
@@ -708,12 +708,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000012720942872}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Root
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000012720942872
 Transform:
@@ -739,12 +739,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000010632805468}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: ForeArm_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000010632805468
 Transform:
@@ -770,12 +770,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000011964888556}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Shin_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000011964888556
 Transform:
@@ -801,12 +801,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000013725626834}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Chest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000013725626834
 Transform:
@@ -834,12 +834,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4000013213409970}
-  m_Layer: 0
+  m_Layer: 23
   m_Name: Toe_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &4000013213409970
 Transform:

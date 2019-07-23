@@ -10,11 +10,13 @@ public class Player : MonoBehaviour
     private float moveZ;
     public CharacterController controller;
     public AudioSource punch;
+    private int Destroy = 0;
+    public Timer timer;
     // Start is called before the first frame update
     void Start()
     {
         Debug.Log("start");
-        animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>();       
     }
 
     // Update is called once per frame
@@ -30,6 +32,7 @@ public class Player : MonoBehaviour
         if (Input.GetButtonDown("B"))
         {
             Debug.Log("Bボタンが押されました");
+            animator.SetBool("Attack2", true);
         }
         moveX = Input.GetAxis("Horizontal") * speed;
         moveZ = Input.GetAxis("Vertical") * speed;
@@ -40,6 +43,14 @@ public class Player : MonoBehaviour
     void PUNCH()
     {
         punch.PlayOneShot(punch.clip);
+    }
+
+    void OnTriggerEnter(Collider col)
+    {
+        Debug.Log("当たった");
+        Destroy(col.gameObject);
+        Destroy++;
+        timer.Set(Destroy / 2);
     }
 
 }
