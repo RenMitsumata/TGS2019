@@ -9,6 +9,7 @@ public class Player : MonoBehaviour
     private float moveX;
     private float moveZ;
     public CharacterController controller;
+    public AudioSource punch;
     // Start is called before the first frame update
     void Start()
     {
@@ -24,6 +25,7 @@ public class Player : MonoBehaviour
         {
             Debug.Log("Aボタンが押されました");
             animator.SetBool("Attack", true);
+            punch.PlayOneShot(punch.clip);
         }
         if (Input.GetButtonDown("B"))
         {
